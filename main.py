@@ -1,4 +1,3 @@
-from curses import COLOR_GREEN
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 from asciimatics.exceptions import ResizeScreenError, NextScene, StopApplication
